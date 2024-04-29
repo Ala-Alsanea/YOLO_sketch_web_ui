@@ -1,3 +1,18 @@
-yolov5s.pt
+#file
+*.pt
+*.jpg
+*.png
+*.jpeg
+# *.txt
+# *.json
+# *.csv
+# *.log
+# *.yaml
+# *.yml
+
+# dir
+.ipynb_checkpoints
 yolov5
+runs
 sketch_web_ui_dataset
+
